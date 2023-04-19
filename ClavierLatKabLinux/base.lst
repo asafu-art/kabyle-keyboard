@@ -1,0 +1,8 @@
+!layout
+  kab             Kabyle (Kabyle, Latin)
+
+
+! variant
+  kab-azerty-latin       kab: Kabyle (AZERTY, Latin characters)
+  kab-azerty-tifinagh    kab: Kabyle (AZERTY, Tifinagh characters)
+  

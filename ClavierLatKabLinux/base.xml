@@ -1,0 +1,48 @@
+<layoutList>
+.
+..
+...
+	<layout>
+      <configItem>
+        <name>kab</name>
+        <shortDescription>kab</shortDescription>
+        <description>Kabyle (Kabyle, Latin)</description>
+        <countryList>
+          <iso3166Id>DZ</iso3166Id>
+          <iso3166Id>FR</iso3166Id>
+          <iso3166Id>CA</iso3166Id>
+        </countryList>
+        <languageList>
+          <iso639Id>kab</iso639Id>
+          <iso639Id>ber</iso639Id>
+        </languageList>
+      </configItem>
+      <variantList>
+      <variant>
+          <configItem>
+            <name>kab-azerty-latin</name>
+            <shortDescription>kab</shortDescription>
+            <description>Kabyle (AZERTY, Latin characters)</description>
+            <languageList>
+              <iso639Id>kab</iso639Id>
+              <iso639Id>ber</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+        <variant>
+          <configItem>
+            <name>kab-azerty-tifinagh</name>
+            <shortDescription>ber</shortDescription>
+            <description>Kabyle (AZERTY, Tifinagh characters)</description>
+            <languageList>
+              <iso639Id>kab</iso639Id>
+              <iso639Id>ber</iso639Id>
+            </languageList>
+          </configItem>
+        </variant>
+      </variantList>
+    </layout>
+...
+..
+.
+</layoutList>
